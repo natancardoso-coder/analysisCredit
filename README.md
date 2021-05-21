@@ -1,2 +1,2 @@
 # analysisCredit
-Análise de Crédito
+Análise de Crédito com Machine Learning
